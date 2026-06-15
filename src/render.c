@@ -1,3 +1,4 @@
+/* Dibuja la ventana visible de 20x20 y la informacion del HUD */
 #include <stdio.h>
 #include "render.h"
 #include "asm_funcs.h"

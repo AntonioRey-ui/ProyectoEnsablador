@@ -1,3 +1,4 @@
+/* Dibujado de la ventana visible y la interfaz */
 #ifndef RENDER_H
 #define RENDER_H
 

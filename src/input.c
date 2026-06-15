@@ -1,3 +1,4 @@
+/* input.c Lectura de teclado inmediata (sin Enter), Windows y Unix */
 #include "input.h"
 
 #ifdef _WIN32

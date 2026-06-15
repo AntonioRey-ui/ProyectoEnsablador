@@ -1,3 +1,4 @@
+/* Logica del juego: carga de mapas, movimiento y reglas */
 #include <stdio.h>
 #include <string.h>
 #include "game.h"

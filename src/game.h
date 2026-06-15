@@ -1,3 +1,4 @@
+/* Estructuras y constantes principales de BitQuest */
 #ifndef GAME_H
 #define GAME_H
 

@@ -1,3 +1,4 @@
+/* funciones obligatorias */
 #ifndef ASM_FUNCS_H
 #define ASM_FUNCS_H
 
